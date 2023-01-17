@@ -1,6 +1,6 @@
 ### Opa! Sou Sérgio Gabriel
 
-- 🌱 Sou estudante Full-Stack ...
+- Dev Front-end em desenvolvimento!
 
 <div align="center">
   <a href="https://github.com/SgCafe">
