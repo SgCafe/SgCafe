@@ -1,6 +1,6 @@
 ### Opa! Sou Sérgio Gabriel
 
-- Dev Front-end em desenvolvimento!
+- Dev Mobile :)
 
 <div align="center">
   <a href="https://github.com/SgCafe">
