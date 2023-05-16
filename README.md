@@ -9,7 +9,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="XamarinForms" height="30" width="60" src="https://camo.githubusercontent.com/c44cb1d3fb23b0070a6ef2bb382b8b211f010ef529c4365de2245d18015006fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f58616d6172696e2e466f726d732d677265656e3f7374796c653d666c61742d737175617265266c6f676f3d78616d6172696e">
+  <img align="center" alt="XamarinForms" height="30" width="100" src="https://camo.githubusercontent.com/c44cb1d3fb23b0070a6ef2bb382b8b211f010ef529c4365de2245d18015006fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f58616d6172696e2e466f726d732d677265656e3f7374796c653d666c61742d737175617265266c6f676f3d78616d6172696e">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
