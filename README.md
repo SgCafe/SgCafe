@@ -7,7 +7,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SgCafe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SgCafe&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+  
+<div align="center">
   ![Xamarin.Forms](https://img.shields.io/badge/Xamarin.Forms-green?style=flat-square&logo=xamarin)
   ![.NET MAUI](https://img.shields.io/badge/.NET-MAUI-blueviolet?style=flat-square&logo=csharp)
   ![.NET Core](https://img.shields.io/badge/.NET-Core-blueviolet?style=flat-square)
@@ -16,7 +17,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-blueviolet?style=flat-square&logo=javascript)
   ![HTML5](https://img.shields.io/badge/HTML5-green?style=flat-square&logo=html5)
   ![CSS](https://img.shields.io/badge/CSS-brightgreen?style=flat-square&logo=csswizardry)
-  
+</div>
   ##
  
 <div> 
